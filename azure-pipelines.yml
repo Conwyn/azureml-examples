@@ -4,7 +4,7 @@ trigger:
 - none
 
 variables:
-  service-connection: 'machine-learning-connection' # replace with your service connection name
+  service-connection: 'CFMLOPSCLUSTERSN' # replace with your service connection name
   resource-group: 'CFMLOPS01' # replace with your resource group name
   workspace: 'CFMLOPS01WS' # replace with your workspace name
 
